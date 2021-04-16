@@ -8,4 +8,9 @@ public class Person {
         this.nazwisko = nazwisko;
         this.isAllowedToOpenAndPutOrTakeIntoSpace = isAllowedToOpenAndPutOrTakeIntoSpace;
     }
+
+    void abc(){
+
+    }
+
 }
