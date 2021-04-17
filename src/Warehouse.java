@@ -38,16 +38,6 @@ public class Warehouse {
         if(endRentDay.after(startRentDay));
         // nie znam mozliwych dni wynajmu
     }
-
-
-
-
-
-
-
-
-
-
     @Override
     public String toString() {
         return  "(" +createID() + ") " + "Warehouse{" +
